@@ -7,7 +7,7 @@ export default function Header() {
     <Container
       as='header'
       responsive
-      className='flex justify-between items-center p-4 mw-wx-l m-auto'
+      className='flex justify-around items-center p-4 mw-wx-l m-auto'
       >
       <h1 className='font-bold'>next<spam className='font-light'>xkcd</spam></h1>
       <nav>
